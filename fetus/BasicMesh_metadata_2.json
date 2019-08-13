@@ -1,0 +1,18 @@
+[
+   {
+      "GroupName" : "womb",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "BasicMesh_15.json"
+   },
+   {
+      "GroupName" : "placenta",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "BasicMesh_18.json"
+   }
+]
