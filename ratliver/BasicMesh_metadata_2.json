@@ -8,6 +8,14 @@
       "URL" : "lobe_1.json"
    },
    {
+      "GroupName" : "ML_line",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "lobe_1_line.json"
+   },
+   {
       "GroupName" : "LL",
       "MorphColours" : false,
       "MorphNormals" : false,
