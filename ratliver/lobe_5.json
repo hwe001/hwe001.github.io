@@ -9,9 +9,9 @@
 	"DbgIndex" : 0,
 	"DbgName" : "my_material",
 	"colorDiffuse" : [0, 1, 0],
-	"colorSpecular" : [0, 0, 0],
+	"colorSpecular" : [0.1, 0.1, 0.1],
 	"shading" : "Phong",
-	"specularCoef" : 0,
+	"specularCoef" : 0.2,
 	"opacity" : 0.43,
 	"vertexColors" : true
 	}],
