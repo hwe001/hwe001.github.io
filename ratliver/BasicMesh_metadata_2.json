@@ -1,130 +1,74 @@
 [
    {
-      "GroupName" : "dogbody",
+      "GroupName" : "ML",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "dogbody_wire_1.json"
+      "URL" : "lobe_1.json"
    },
    {
-      "GroupName" : "stomach",
+      "GroupName" : "LL",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "stomach_1.json"
+      "URL" : "lobe_2.json"
    },
    {
-      "GroupName" : "intestine",
+      "GroupName" : "RL_1",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "intestine_1.json"
+      "URL" : "lobe_3.json"
    },
    {
-      "GroupName" : "bladder",
+      "GroupName" : "RL_2",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "bladder_1.json"
+      "URL" : "lobe_4.json"
    },
    {
-      "GroupName" : "spleen",
+      "GroupName" : "SL_1",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "spleen_1.json"
+      "URL" : "lobe_5.json"
    },
    {
-      "GroupName" : "liver",
+      "GroupName" : "SL_2",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "liver_1.json"
+      "URL" : "lobe_6.json"
    },
    {
-      "GroupName" : "kidney",
+      "GroupName" : "Paracaval",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "kidney_1.json"
+      "URL" : "stump.json"
    },
    {
-      "GroupName" : "femur",
+      "GroupName" : "HV_IVC",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "femur_1.json"
+      "URL" : "hv_ivc.json"
    },
    {
-      "GroupName" : "fibula",
+      "GroupName" : "Portal",
       "MorphColours" : false,
       "MorphNormals" : false,
       "MorphVertices" : false,
       "Type" : "Surfaces",
-      "URL" : "fibula_1.json"
+      "URL" : "portal.json"
    },
-   {
-      "GroupName" : "tibia",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "tibia_1.json"
-   },
-   {
-      "GroupName" : "PV",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "PV_1.json"
-   },
-   {
-      "GroupName" : "aorta",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "aorta_1.json"
-   },
-   {
-      "GroupName" : "m1",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "muscle1_1.json"
-   },
-   {
-      "GroupName" : "m2",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "muscle2_1.json"
-   },
-   {
-      "GroupName" : "m3",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "muscle3_1.json"
-   },
-   {
-      "GroupName" : "m4",
-      "MorphColours" : false,
-      "MorphNormals" : false,
-      "MorphVertices" : false,
-      "Type" : "Surfaces",
-      "URL" : "muscle4_1.json"
-   }
 ]
