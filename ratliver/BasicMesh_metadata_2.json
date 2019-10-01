@@ -24,6 +24,14 @@
       "URL" : "lobe_2.json"
    },
    {
+      "GroupName" : "LL_line",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "lobe_2_line.json"
+   },
+   {
       "GroupName" : "RL_1",
       "MorphColours" : false,
       "MorphNormals" : false,
@@ -31,6 +39,14 @@
       "Type" : "Surfaces",
       "URL" : "lobe_3.json"
    },
+   {
+      "GroupName" : "RL_1_line",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "lobe_3_line.json"
+   },   
    {
       "GroupName" : "RL_2",
       "MorphColours" : false,
@@ -40,6 +56,14 @@
       "URL" : "lobe_4.json"
    },
    {
+      "GroupName" : "RL_2_line",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "lobe_4_line.json"
+   },   
+   {
       "GroupName" : "SL_1",
       "MorphColours" : false,
       "MorphNormals" : false,
@@ -48,6 +72,14 @@
       "URL" : "lobe_5.json"
    },
    {
+      "GroupName" : "SL_1_line",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "lobe_5_line.json"
+   },   
+   {
       "GroupName" : "SL_2",
       "MorphColours" : false,
       "MorphNormals" : false,
@@ -55,6 +87,14 @@
       "Type" : "Surfaces",
       "URL" : "lobe_6.json"
    },
+   {
+      "GroupName" : "SL_2_line",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "lobe_6_line.json"
+   },   
    {
       "GroupName" : "Paracaval",
       "MorphColours" : false,
